@@ -77,8 +77,8 @@
 
 <br>
 ## 🪴 Практика и стажировка
-[<img src="/06da7cbb85d%20(2).png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии "Инженер по тестированию"(https://raw.githubusercontent.com/alevtinavinokurova/alevtinavinokurova/refs/heads/main/06da7cbb85d%20(2).png) 
-[<img src="/Стажировка%201.png" width="280px" hspace="10px" alt="Сертификат Auto ae»"
+[<img src="/06da7cbb85d%20(2).png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии "Инженер по тестированию"](https://raw.githubusercontent.com/alevtinavinokurova/alevtinavinokurova/refs/heads/main/06da7cbb85d%20(2).png) 
+[<img src="/Стажировка%201.png" width="280px" hspace="10px" alt="Сертификат Auto ae»"]
 (https://raw.githubusercontent.com/alevtinavinokurova/alevtinavinokurova/refs/heads/main/Стажировка%201.png)
 <br>
 
