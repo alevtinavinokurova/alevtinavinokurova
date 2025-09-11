@@ -83,7 +83,7 @@
 ## 🎒 Образование
 [<img src="/06da7cbb85d%20(2).png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по тестированию">](https://raw.githubusercontent.com/alevtinavinokurova/alevtinavinokurova/refs/heads/main/Стажировка%201.png)
 
-[<img src="/06da7cbb85d%20(2).png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по тестированию">](https://raw.githubusercontent.com/alevtinavinokurova/alevtinavinokurova/refs/heads/main/Стажировка%201.png)
+[<img src="/Диплом.png" width="280px" hspace="10px" alt="Диплом">](https://github.com/alevtinavinokurova/alevtinavinokurova/blob/main/Диплом.png)
 <br>
 <br>
 
